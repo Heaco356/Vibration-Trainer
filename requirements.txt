@@ -1,4 +1,5 @@
-fastapi
-uvicorn[standard]
+streamlit
 numpy
-plotly
+pandas
+scipy
+matplotlib
